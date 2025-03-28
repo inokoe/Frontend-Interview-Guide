@@ -127,8 +127,8 @@ export const zhConfig: DefaultTheme.Config = {
           {
             text: '网络',
             items: [
-              { text: 'CDN', link: '/performance/network/cdn' },
               { text: 'HTTP', link: '/performance/network/http' },
+              { text: 'CDN', link: '/performance/network/cdn' },
               { text: 'OSI', link: '/performance/network/osi' },
               { text: 'TCP', link: '/performance/network/tcp' },
             ],

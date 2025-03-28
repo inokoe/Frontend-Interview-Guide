@@ -21,7 +21,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: { src: '/vitepress-logo-mini.svg', width: 24, height: 24 },
-    socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/inokoe/Frontend-Interview-Guide' }],
     ...zhConfig,
   },
 

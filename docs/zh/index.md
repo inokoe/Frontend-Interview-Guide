@@ -15,7 +15,7 @@ hero:
       link: /base/es6/variables-and-scope
     - theme: alt
       text: Github
-      link: /api-examples
+      link: https://github.com/inokoe/Frontend-Interview-Guide
   image:
     src: /IconBlocksStacks.svg
     alt: VitePress
